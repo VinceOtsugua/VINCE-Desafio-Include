@@ -114,11 +114,6 @@ header .logo{
     transform: translateY(-15px);
 }
 
-.thumb li iframe{
-    max-width: 140px;
-    max-height: 100px;
-}
-
 .banner .sci{
     position: absolute;
     bottom: 20px;
